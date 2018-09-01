@@ -1,0 +1,9 @@
+batch\Processor.class
+batch\Reader.class
+com\mycom\hibernatejpa\Azubi_.class
+com\mycom\hibernatejpa\AzubiDao.class
+com\mycom\hibernatejpa\utils\LogProducer.class
+batch\Writer.class
+com\mycom\hibernatejpa\Test12_.class
+com\mycom\hibernatejpa\Test12.class
+com\mycom\hibernatejpa\Azubi.class
