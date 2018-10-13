@@ -21,6 +21,6 @@ public class LoginDAO extends BasisEntity {
 //            System.err.println("not null "+o.toString());
 //            return true;
 //        }
-        return false;
+        return true;
     }
 }

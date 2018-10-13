@@ -86,7 +86,7 @@ public class Users extends BasisEntity implements Serializable {
     public String logout() {
         HttpSession session = SessionUtils.getSession();
         session.invalidate();
-        return "login";
+        return "login?faces-redirect=true";
     }
 
     @Override
